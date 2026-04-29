@@ -1,6 +1,12 @@
 # tibdex/github-app-token
 
-Hardened GitHub Action by [Chainguard](https://www.chainguard.dev).
+Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at [https://github.com/tibdex/github-app-token](https://github.com/tibdex/github-app-token).
+
+## Versions
+
+| Version | Tag | Upstream commit |
+|---------|-----|-----------------|
+| v2.1.0 | [`v2.1.0`](https://github.com/chainguard-actions/github-app-token/tree/v2.1.0) | — |
 
 ## Privacy
 
