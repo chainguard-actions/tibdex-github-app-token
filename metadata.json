@@ -1,5 +1,6 @@
 {
   "owner": "tibdex",
   "name": "github-app-token",
-  "visibility": ""
+  "visibility": "internal",
+  "description": "Impersonate a GitHub App in a GitHub Action"
 }

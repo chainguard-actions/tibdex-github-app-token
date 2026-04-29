@@ -1,5 +1,7 @@
 # tibdex/github-app-token
 
+Impersonate a GitHub App in a GitHub Action
+
 Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at [https://github.com/tibdex/github-app-token](https://github.com/tibdex/github-app-token).
 
 ## Versions
