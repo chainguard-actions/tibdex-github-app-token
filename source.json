@@ -1,4 +1,6 @@
 {
-  "upstream": "tibdex/github-app-token",
-  "version": "v2.1.0"
+  "owner": "tibdex",
+  "repo": "github-app-token",
+  "version": "",
+  "url": "https://github.com/tibdex/github-app-token"
 }
