@@ -8,7 +8,7 @@ Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at
 
 | Version | Tag | Upstream commit |
 |---------|-----|-----------------|
-| v2.1.0 | [`v2.1.0`](https://github.com/chainguard-actions/github-app-token/tree/v2.1.0) | — |
+| v2.1.0 | [`v2.1.0`](https://github.com/chainguard-actions/tibdex--github-app-token/tree/v2.1.0) | — |
 
 ## Privacy
 
